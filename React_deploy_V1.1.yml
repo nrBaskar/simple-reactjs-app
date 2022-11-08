@@ -58,10 +58,6 @@
     - name: Install React JS package
       command: npm install -g create-react-app
     - name: Install react-dependencies
-      command: npm install react-bootstrap
-      command: npm install axios
-      command: npm install react-dom
-      command: npm install react-router-dom
       command: npm install react-scripts
     # Install all the necessary Node modules for the project,# using `npm`.
       command: npm install
